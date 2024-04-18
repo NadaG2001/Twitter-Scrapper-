@@ -15,4 +15,7 @@ Specify the ticker symbol to monitor mentions of.
 Set the interval for scraping tweets (in minutes).
 Run the script.
 
+
+example of output you will got after running :
+
 ![output_with_interval_min_15](https://github.com/NadaG2001/Twitter-Scrapper-/assets/110260350/f55db8e9-b6e3-4fa5-b27e-39e91e1e5d13)
