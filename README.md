@@ -1,5 +1,7 @@
 # Twitter-Scrapper
 
+##   ntscraper: A Python Library
+
 Twitter Data Scraper
 This Python script allows you to scrape Twitter data for multiple user accounts and monitor mentions of a specific ticker symbol. It utilizes the Nitter service for fetching tweets in a privacy-focused manner.
 
